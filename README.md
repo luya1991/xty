@@ -11,7 +11,7 @@ not want to write 'Makefile' by yourself, you can send E-mail to ginigit.
 This repo is built by ginigit, a student of UESTC, China.
 For further information please send E-mail to 839256767@qq.com.
 
-# Some anecdotes
+# Some Anecdotes
 
 When I first created this repository, I just wanted to learn something
 about c++ programming and linux system calls. Therefore, I never really
@@ -31,6 +31,7 @@ on this repo, I sure will remember them and the old happy time.
 c++ rules all.
 
 ginigit
+
 2016-01-27
 
 # Unsolved Problems
@@ -50,9 +51,10 @@ the configuration file, but I did not impl the actual function.
 4. Logging part is a total mess...
 
 ginigit
+
 2016-03-05
 
-# Change history
+# Change History
 
 2016-03-05
 
