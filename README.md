@@ -30,8 +30,8 @@ on this repo, I sure will remember them and the old happy time.
 
 c++ rules all.
 
-							        ginigit
-							     2016-01-27
+ginigit
+2016-01-27
 
 # Unsolved Problems
 
@@ -48,10 +48,12 @@ clients' information dynamically. I did write 'heart_interval' para in
 the configuration file, but I did not impl the actual function.
 
 4. Logging part is a total mess...
-							        ginigit
-							     2016-03-05
+
+ginigit
+2016-03-05
 
 # Change history
 
 2016-03-05
+
 Initial commitment
